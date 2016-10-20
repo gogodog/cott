@@ -1,4 +1,5 @@
 1:我目前在master分支下面
 	git checkout -b 001branch
 2:在001branch下推送至远程
-	git push
+	git push origin 001branch:001branch
+	推送001branc（第一个参数）作为远程的001branc分支（第二个参数）
