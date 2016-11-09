@@ -12,4 +12,4 @@ YY:我在branch001
 	git revert [commitid] 	// 回滚指定版本
 	git push [远程分支]	// 提交回滚操作
 
-4:实验版本文件之间的比较
+
